@@ -2,4 +2,5 @@ body{
     background-color: lightgray;
     margin: 20px;
     padding: 0%;
+    box-sizing: border-box;
 }
